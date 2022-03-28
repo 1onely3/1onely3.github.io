@@ -1,6 +1,0 @@
-$ git clone https://github.com/1onely3/1onely3.github.io.git
-$ cd 1onely3.github.io
-$ git checkout master
-$ git checkout -b gh-pages master
-$ git push origin gh-pages
-$ cd ..
